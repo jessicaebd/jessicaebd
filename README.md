@@ -5,4 +5,4 @@
 -   🔭 I’m currently studying in Computer Science
 -   📫 You can reach me on: [Twitter](https://twitter.com/jessicaebd), [Instagram](https://www.instagram.com/jessicaebd/)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jessicaebd&layout=compact)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jessicaebd&layout=compact&theme=tokyonight)
